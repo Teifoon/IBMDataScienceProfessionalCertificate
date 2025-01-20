@@ -38,5 +38,5 @@ In Python libraries I used were:
 - Folium
 - scikit-learn<br>
 # The Data Science Professional Certificate from IBM:
-Please verify the certificate [here](). <br>
-![IBM Certificate]()
+Please verify the certificate [here](https://coursera.org/share/0f5cf7afe271b739f6f5f90b5504d4c1). <br>
+
