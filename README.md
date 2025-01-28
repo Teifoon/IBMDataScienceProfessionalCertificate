@@ -21,7 +21,7 @@ Skills learned:
 - Data Mining
 - Import and clean data sets
 - Analyze and visualize data
-- Build macine learning models and pipelines
+- Build machine learning models and pipelines
 Using the following tools:
 - Python
 - SQL
